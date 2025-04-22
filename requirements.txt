@@ -1,6 +1,7 @@
 selene == 2.0.0rc9
 selenium
-pytest
+pandas
 pypdf
-openpyxl
-xlrd
+PyPDF2
+io
+zipfile
