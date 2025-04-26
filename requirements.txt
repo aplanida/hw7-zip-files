@@ -1,7 +1,5 @@
 selene == 2.0.0rc9
-selenium
+pytest
 pandas
 pypdf
-PyPDF2
-io
-zipfile
+openpyxl
